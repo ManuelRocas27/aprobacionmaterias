@@ -1,0 +1,29 @@
+{
+    "estudiante": [
+    {
+        "nombre": "Pedro",
+        "genero": "masculino",
+        "nota": 2.5
+    },
+    {
+        "nombre": "Camila",
+        "genero": "femenino",
+        "nota": 3.5
+    },
+    {
+        "nombre": "Roberto",
+        "genero": "masculino",
+        "nota": 2
+    },
+    {
+        "nombre": "Alejandro",
+        "genero": "masculino",
+        "nota": 4.7
+    },
+    {
+        "nombre": "Laura",
+        "genero": "femenino",
+        "nota": 4
+    }
+    ]
+}
